@@ -25,7 +25,8 @@ $(document).ready(function(){
     // $('h2:has(span)').css('border', '4px solid red');
     // $('.box:empty').css('border', '4px solid red');
 
-    //attribute filter
+    /**attribute filter**/
+    
     //$('p[class = "lead"]').css('border', '4px solid red');
     //$('p[name = "shorty"]').css('border', '4px solid red');
     //find all the string that contain the name sho in the start
