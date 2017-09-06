@@ -1,7 +1,5 @@
 $(document).ready(function(){
-
     /** basic selector**/
-    
    // $('#lesson-1').css('border', '4px solid red');
 
     /**basic animation**/
