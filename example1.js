@@ -30,5 +30,5 @@ $(document).ready(function(){
     //find all the string that contain the name sho in the start
     //$('p[name ^= "sho"]').css('border', '4px solid red');
     //find all the links that contain the href .co.uk in end
-    $('a[href $= ".co.uk"]').css('border', '4px solid red');
+    //$('a[href $= ".co.uk"]').css('border', '4px solid red');
 });
