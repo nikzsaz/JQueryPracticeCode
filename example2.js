@@ -1,4 +1,5 @@
 $(function(){
+    
     // gimme the what is the name of class of p tag that is first
     // alert($('p:first').attr('class'));
     //set the new clas
@@ -32,4 +33,5 @@ $(function(){
     //alert($('input').val());
     // to set the value of the 
     //$('input').val("Hello guyyyyyyyys");
+    
 })
